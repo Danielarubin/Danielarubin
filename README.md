@@ -7,3 +7,4 @@ I'm a second year Computer Science student at Tecnológico Nacional de México.
 - 💡 &nbsp; I love to know anything about everything
 - 🎓 &nbsp; Studying Computer Science was always my dream since i was a little girl
 - 📖 &nbsp; I like to read books, go running, to sing, and to make friends!
+<br>
