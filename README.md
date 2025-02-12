@@ -2,6 +2,7 @@
 
 I'm a second year Computer Science student at Tecnológico Nacional de México.
 ### 💻 &nbsp;About Me 
+<hr>
 ```
 -------------------------
 👩🏻‍💻  My name is Daniela Navarrete Rubín, I'm 21 and I'm from México city
