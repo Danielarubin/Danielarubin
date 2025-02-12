@@ -16,7 +16,6 @@ i love r&b, rap, pop, etc
 ```
 <hr>
 ### 👨‍💻 Programming Languages
-<p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 
 ### 👨‍💻 Currently learnig
