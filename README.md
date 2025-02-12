@@ -14,6 +14,10 @@ OUTSIDE TECH...
 i love r&b, rap, pop, etc
 💻 also, i love to learn new languages! I'm trying to reach B1 german this year.
 ```
+</p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Mahdiiye&color=brightgreen" alt="watching_count" />
+ </p>
 
 ### 👨‍💻 Programming Languages
 
