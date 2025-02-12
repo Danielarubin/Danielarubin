@@ -14,7 +14,7 @@ OUTSIDE TECH...
 i love r&b, rap, pop, etc
 💻 also, i love to learn new languages! I'm trying to reach B1 german this year.
 ```
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvcWQ2YmhpMzRpcGt2ZHpkcnpvZDkyM3ViOTUxa3dlcWdjMWMxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
