@@ -1,1 +1,1 @@
-<h1>Hey there <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVoMWxobHc0dmV1bDA4MjIyMDJjYmJmNWlnMjlwOTVmMjNiN2ZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif)" width="38px">, I'm Daniela Rubin!</h1>
+<h1>Hey there <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVoMWxobHc0dmV1bDA4MjIyMDJjYmJmNWlnMjlwOTVmMjNiN2ZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif" width="38px">, I'm Daniela Rubin!</h1>
