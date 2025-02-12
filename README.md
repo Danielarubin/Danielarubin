@@ -2,7 +2,7 @@
 
 I'm a second year Computer Science student at Tecnológico Nacional de México.
 ### 💻 &nbsp;About Me 
-<hr>
+
 ```
 -------------------------
 👩🏻‍💻  My name is Daniela Navarrete Rubín, I'm 21 and I'm from México city
@@ -15,4 +15,7 @@ i love r&b, rap, pop, etc
 💻 also, i love to learn new languages, I'm b2 in english and i'm currently learning german
 ```
 <hr>
-<br>
+### 👨‍💻 Programming Languages
+<p>
+  <img alt="Java" src="(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"></a>
+   
