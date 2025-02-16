@@ -36,4 +36,4 @@ i love r&b, rap, pop, etc
 <hr>
 SOCIAL MEDIA! 🌸 <hr>
 <a href= "https://mx.linkedin.com/in/daniela-navarrete-rubín-b7b548246" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
-<a href= "https://www.instagram.com/daanielarubin" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a> <a href = "daniela.navarreteru@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href= "https://www.instagram.com/daanielarubin" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a> 
