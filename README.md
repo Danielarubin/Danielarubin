@@ -34,5 +34,6 @@ i love r&b, rap, pop, etc
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 
 <hr>
-SOCIAL MEDIA! 🌸
-<a href= "https://www.instagram.com/daanielarubin"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+SOCIAL MEDIA! 🌸 <hr>
+<a href= "https://mx.linkedin.com/in/daniela-navarrete-rubín-b7b548246"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
+<a href= "https://www.instagram.com/daanielarubin"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
