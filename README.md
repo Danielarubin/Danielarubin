@@ -5,14 +5,9 @@ I'm a third year Computer Science student at Tecnológico Nacional de México.
 ### 💻 &nbsp;About Me 
 ```
 -------------------------
-👩🏻‍💻  My name is Daniela Navarrete Rubín, I'm 21 and I'm from México city
+👩🏻‍💻  My name is Daniela Navarrete Rubín, I'm 22 and I'm from México city
 💡  I love to know anything about everything
-🎓  Studying Computer Science was always my dream since i was a little girl
 📖  I'm always learning something new
-OUTSIDE TECH...
-🎵 i would say thay listening to music is in my top tier of things that i love to do apart from tech,
-i love r&b, rap, pop, etc
-💻 also, i love to learn new languages! I'm trying to reach B1 german this year.
 ```
 <picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFvcWQ2YmhpMzRpcGt2ZHpkcnpvZDkyM3ViOTUxa3dlcWdjMWMxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28AEi3TIvtSP6/giphy.gif" width = 400px></picture>
  <p align="left">
